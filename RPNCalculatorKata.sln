@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPNCalculatorKata", "RPNCalculatorKata\RPNCalculatorKata.csproj", "{407BB199-8E43-491B-AA49-F400CEF11BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{AC826AE1-E5EC-4289-87B4-DB09AE0BCFA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407BB199-8E43-491B-AA49-F400CEF11BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407BB199-8E43-491B-AA49-F400CEF11BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407BB199-8E43-491B-AA49-F400CEF11BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407BB199-8E43-491B-AA49-F400CEF11BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC826AE1-E5EC-4289-87B4-DB09AE0BCFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC826AE1-E5EC-4289-87B4-DB09AE0BCFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC826AE1-E5EC-4289-87B4-DB09AE0BCFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC826AE1-E5EC-4289-87B4-DB09AE0BCFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
